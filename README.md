@@ -1,4 +1,4 @@
-# indie assist (v4 beta)
+# Indie Assist (v4 beta)
 
 **Persönliche Assistenz, einfach organisiert.** Aufgaben für jeden Tag, Putzplan, Dienstplan, Stunden,
 Urlaub, Einkaufsliste, Termine, Chat und Abrechnung – für Menschen mit Persönlicher Assistenz und ihr Team.
@@ -24,7 +24,7 @@ Welcher Mac? Apfel-Menü → „Über diesen Mac“: Steht dort „Chip Apple M�
 **Windows:** `indie-assist-Setup.exe` doppelklicken. Kommt „Der Computer wurde durch Windows geschützt“:
 „Weitere Informationen“ → „Trotzdem ausführen“. Durchklicken – am Ende öffnet sich die Einrichtung im Browser.
 
-**Mac:** Die `.dmg` doppelklicken, **indie assist** auf **„Programme“** ziehen und dort öffnen.
+**Mac:** Die `.dmg` doppelklicken, **Indie Assist** auf **„Programme“** ziehen und dort öffnen.
 Kommt „kann nicht geöffnet werden“: Systemeinstellungen → Datenschutz & Sicherheit → ganz unten
 „Dennoch öffnen“ (einmalig). Dann öffnet sich die Einrichtung im Browser.
 
